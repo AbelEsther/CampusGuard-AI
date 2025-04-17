@@ -25,16 +25,16 @@ Incidents involving weapons near campus threaten the safety of students, faculty
 The ASU Police Department ensures campus safety through patrols and community engagement, but traditional surveillance is reactive and often delayed. Manual systems may miss emerging threats, especially in remote or low-traffic areas, limiting early prevention.
 
 ## **Proposed end-to-end product solution idea and why the CV component is essential to the solution**
-●	**Dataset:** Weapon Dataset from Roboflow Universe with 896 images of weapons https://universe.roboflow.com/spot-ai/spot-ai-zbxjw
-●	**YOLOv8 Object Detection Model:**  Identifies visible weapons like guns or knives in real-time
-●	**Threat Classification & Logging:** Based on confidence levels
-●	**Immediate Alert System:**  When integrated into the live feed of the ASU webcam, it sends a notification to the security team (SMS, email, dashboard).
+-	**Dataset:** Weapon Dataset from Roboflow Universe with 896 images of weapons https://universe.roboflow.com/spot-ai/spot-ai-zbxjw
+-	**YOLOv8 Object Detection Model:**  Identifies visible weapons like guns or knives in real-time
+-		**Threat Classification & Logging:** Based on confidence levels
+-		**Immediate Alert System:**  When integrated into the live feed of the ASU webcam, it sends a notification to the security team (SMS, email, dashboard).
 
 ## **Why Computer Vision is Core:**
-●	Detects visual objects (weapons) in milliseconds
-●	Works 24/7 without fatigue or blind spots
-●	Scales across hundreds of camera feeds
-●	Adapts to day/night and indoor/outdoor settings
+- Detects visual objects (weapons) in milliseconds
+- Works 24/7 without fatigue or blind spots
+- Scales across hundreds of camera feeds
+- Adapts to day/night and indoor/outdoor settings
 
 ## **Possible limitations/risks**
 1.	Real-time processing may be hardware-intensive
@@ -66,9 +66,9 @@ The ASU Police Department ensures campus safety through patrols and community en
 -  Potential applications include academic research, law enforcement, and public surveillance systems.
 
 ## **Deliverable**:
-a. Final Output: An efficient weapon detection model that visually identifies firearms in public spaces.
-b. The system utilizes a pre-trained Haar Cascade Object Detection Model for additional verification.
-c. Visualization: The detected weapon is highlighted with bounding boxes in real-time.
+- Final Output: An efficient weapon detection model visually identifying firearms in public spaces. 
+- The system utilizes a pre-trained Haar Cascade Object Detection Model for additional verification.
+- Visualization: The detected weapon is highlighted with bounding boxes in real-time.
 
 ---
 ### **How to Run the Project**
