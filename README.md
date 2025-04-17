@@ -27,8 +27,8 @@ The ASU Police Department ensures campus safety through patrols and community en
 ## **Proposed end-to-end product solution idea and why the CV component is essential to the solution**
 -	**Dataset:** Weapon Dataset from Roboflow Universe with 896 images of weapons https://universe.roboflow.com/spot-ai/spot-ai-zbxjw
 -	**YOLOv8 Object Detection Model:**  Identifies visible weapons like guns or knives in real-time
--		**Threat Classification & Logging:** Based on confidence levels
--		**Immediate Alert System:**  When integrated into the live feed of the ASU webcam, it sends a notification to the security team (SMS, email, dashboard).
+-	**Threat Classification & Logging:** Based on confidence levels
+-	**Immediate Alert System:**  When integrated into the live feed of the ASU webcam, it sends a notification to the security team (SMS, email, dashboard).
 
 ## **Why Computer Vision is Core:**
 - Detects visual objects (weapons) in milliseconds
@@ -72,15 +72,15 @@ The ASU Police Department ensures campus safety through patrols and community en
 
 ---
 ### **How to Run the Project**
-a. Clone the repository:
-   git clone https://github.com/your-repo/campusguardai.git
+a. **Clone the repository:**
+  - git clone https://github.com/your-repo/campusguardai.git
    cd ironsight
   
-b. Install dependencies:
-   pip install -r requirements.txt
+b. **Install dependencies:**
+   - pip install -r requirements.txt
 
-c. Run the detection script:
-   python detect.py --source test_images/
+c. **Run the detection script:**
+   - python detect.py --source test_images/
 
 ---
 ### d. **Contributors - Team 6 Members**
@@ -91,10 +91,10 @@ c. Run the detection script:
 5. [Nayana Hegde]( )
 
 ## **Acknowledgment**
-We appreciate the Voxel51 Hackathon for providing this platform and the DaSCI dataset for making this project possible.
+We appreciate the effort of the team and our Prof. Hina for this project, as well as the DaSCI dataset, for making this project possible.
 
 **Thank You!**
 ---
-For more details, visit our GitHub repository.
+If you would like more details, you can visit our GitHub repository.
 
 
