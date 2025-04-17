@@ -74,7 +74,7 @@ The ASU Police Department ensures campus safety through patrols and community en
 ### **How to Run the Project**
 a. **Clone the repository:**
   - git clone https://github.com/your-repo/campusguardai.git
-   cd ironsight
+  - cd ironsight
   
 b. **Install dependencies:**
    - pip install -r requirements.txt
