@@ -85,10 +85,10 @@ c. **Run the detection script:**
 ---
 ### d. **Contributors - Team 6 Members**
 1. [Esther Abel](https://www.linkedin.com/in/abelesther/)
-2. [Aishwarya Jadeja]()
-3. [Dhrushi Padma]()
+2. [Aishwarya Jadeja](https://www.linkedin.com/in/aishwarya-jadeja-5729282a8/)
+3. [Dhrushi Padma](https://www.linkedin.com/in/dhrushi-padma-09abb623b/)
 4. [Haarika Atluri]()
-5. [Nayana Hegde]( )
+5. [Nayana Hegde](https://www.linkedin.com/in/nayana-hegde-501a7785/)
 
 ## **Acknowledgment**
 We appreciate the effort of the team and our Prof. Hina for this project, as well as the DaSCI dataset, for making this project possible.
