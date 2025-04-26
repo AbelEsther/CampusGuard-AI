@@ -2,7 +2,7 @@
 CampusGuard AI – Real-Time Weapon Detection
 
 ## Notebook used in Data Analysis and Model Building
-[campusguardai.ipynb](https://github.com/AbelEsther/CampusGuard-AI.ipynb)
+[campusguardai.ipynb]([https://github.com/AbelEsther/CampusGuard-AI.ipynb](https://github.com/AbelEsther/CampusGuard-AI/blob/main/CampusGuard_AI_group6.ipynb)
 
 ## Dataset Link
 [campusguardai.csv](https://github.com/AbelEsther/CampusGuard-AI.csv)
