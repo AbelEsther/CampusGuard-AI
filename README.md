@@ -49,7 +49,7 @@ The ASU Police Department ensures campus safety through patrols and community en
 - **Preprocessing:** Images are resized to 500 pixels for faster model inference.
 
 ## **Model Training**
-- **Framework:** Python-based YOLOv7 (You Only Look Once), a state-of-the-art object detection model.
+- **Framework:** Python-based YOLOv8 (You Only Look Once), a state-of-the-art object detection model.
 - **Approach:**
   - Image annotation with bounding boxes.
   - Confidence threshold tuning for accuracy.
