@@ -5,7 +5,7 @@ CampusGuard AI – Real-Time Weapon Detection
 [campusguardai.ipynb]([https://github.com/AbelEsther/CampusGuard-AI.ipynb](https://github.com/AbelEsther/CampusGuard-AI/blob/main/CampusGuard_AI_group6.ipynb)
 
 ## Dataset Link
-[campusguardai.csv](https://github.com/AbelEsther/CampusGuard-AI.csv)
+[campusguardai.csv]([https://github.com/AbelEsther/CampusGuard-AI.csv](https://drive.google.com/file/d/1QMQDV9G8-uN20-YIaw_y3R88vyYNPzR8/view?usp=sharing)
 
 
 ## **Problem/opportunity definition**
